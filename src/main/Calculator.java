@@ -1,0 +1,11 @@
+package main;
+
+public interface Calculator {
+	
+	int multiply(int a, int b);
+	int devide(int a, int b);
+	int add(int a, int b);
+	int substract(int a, int b);
+	
+
+}
